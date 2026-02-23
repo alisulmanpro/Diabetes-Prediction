@@ -1,0 +1,89 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==============================
+# Virtual Environment
+# ==============================
+
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# FastAPI / Uvicorn
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# PyCharm
+# ==============================
+
+.idea/
+*.iml
+
+# ==============================
+# VS Code (optional)
+# ==============================
+
+.vscode/
+
+# ==============================
+# Environment Variables
+# ==============================
+
+.env
+.env.*
+
+# ==============================
+# Model Artifacts
+# ==============================
+
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# ==============================
+# Data Files (optional - recommended)
+# ==============================
+
+data/raw/
+data/clean/
+
+# ==============================
+# OS Files
+# ==============================
+
+.DS_Store
+Thumbs.db
