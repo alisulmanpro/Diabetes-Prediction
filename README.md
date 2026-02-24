@@ -185,5 +185,3 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 
 Recommend: **MIT License** — change as you see fit.
 
-
-Which one should I do next?
